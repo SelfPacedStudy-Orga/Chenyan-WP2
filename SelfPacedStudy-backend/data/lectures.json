@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Machine Learning",
+    "description": "Basic concepts and foundations of machine learning",
+    "videoUrl": "https://example.com/videos/lecture1.mp4",
+    "thumbnailUrl": "https://example.com/thumbnails/lecture1.jpg",
+    "duration": 2700,
+    "availableFrom": "2024-04-15T00:00:00.000Z",
+    "isAvailable": true
+  },
+  {
+    "id": "2",
+    "title": "Supervised Learning Algorithms",
+    "description": "Overview of supervised learning methods",
+    "videoUrl": "https://example.com/videos/lecture2.mp4",
+    "thumbnailUrl": "https://example.com/thumbnails/lecture2.jpg",
+    "duration": 3000,
+    "availableFrom": "2025-04-14T03:55:30.000Z",
+    "isAvailable": true
+  },
+  {
+    "id": "3",
+    "title": "Unsupervised Learning",
+    "description": "Clustering and dimensionality reduction techniques",
+    "videoUrl": "https://example.com/videos/lecture3.mp4",
+    "thumbnailUrl": "https://example.com/thumbnails/lecture3.jpg",
+    "duration": 2880,
+    "availableFrom": "2025-04-14T03:55:45.000Z",
+    "isAvailable": true
+  },
+  {
+    "id": "4",
+    "title": "Neural Networks",
+    "description": "Deep learning and neural network architectures",
+    "videoUrl": "https://example.com/videos/lecture4.mp4",
+    "thumbnailUrl": "https://example.com/thumbnails/lecture4.jpg",
+    "duration": 3300,
+    "availableFrom": "2025-04-14T03:56:00.000Z",
+    "isAvailable": true
+  },
+  {
+    "id": "5",
+    "title": "Advanced Topics and Applications",
+    "description": "Real-world applications and advanced concepts",
+    "videoUrl": "https://example.com/videos/lecture5.mp4",
+    "thumbnailUrl": "https://example.com/thumbnails/lecture5.jpg",
+    "duration": 3600,
+    "availableFrom": "2025-04-14T03:56:15.000Z",
+    "isAvailable": true
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "./build",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "skipLibCheck": true,
+    "paths": {
+      "@routes/*": [
+        "src/routes/*"
+      ],
+      "@controllers/*": [
+        "src/controllers/*"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+      "@db/*": [
+        "src/db/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@models/*": [
+        "src/models/*"
+      ],
+      "@config/*": [
+        "src/config/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

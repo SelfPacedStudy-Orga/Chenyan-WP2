@@ -1,0 +1,10 @@
+start	end	text
+0	7000	Hi, I'm Wu Xingsu from University of Shanghai for Science and Technology.
+7000	17000	I would like to introduce our work titled Source 3 Domentitation with Frozen Body Model, Foundation Model.
+17000	23000	First, I would like to introduce Unsupervised Domain Adaptation, UDA.
+23000	31000	UDA until brings the gap between the source and target domain, which may have different data distribution,
+31000	38000	both labeled source data and unlabeled target data available during the adaptation.
+38000	44000	But it's unrealistic for some real-world scenarios involving privacy,
+44000	48000	because the source domain data cannot be assessed.
+48000	54000	Thus, more recent method focusing on Source 3 Domain Adaptation.
+54000	59000	Therefore, the goal of the setting is transferring per change.

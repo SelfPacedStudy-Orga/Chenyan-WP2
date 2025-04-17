@@ -1,0 +1,29 @@
+WEBVTT
+
+00:00.000 --> 00:07.000
+Hi, I'm Wu Xingsu from University of Shanghai for Science and Technology.
+
+00:07.000 --> 00:17.000
+I would like to introduce our work titled Source 3 Domentitation with Frozen Body Model, Foundation Model.
+
+00:17.000 --> 00:23.000
+First, I would like to introduce Unsupervised Domain Adaptation, UDA.
+
+00:23.000 --> 00:31.000
+UDA until brings the gap between the source and target domain, which may have different data distribution,
+
+00:31.000 --> 00:38.000
+both labeled source data and unlabeled target data available during the adaptation.
+
+00:38.000 --> 00:44.000
+But it's unrealistic for some real-world scenarios involving privacy,
+
+00:44.000 --> 00:48.000
+because the source domain data cannot be assessed.
+
+00:48.000 --> 00:54.000
+Thus, more recent method focusing on Source 3 Domain Adaptation.
+
+00:54.000 --> 00:59.000
+Therefore, the goal of the setting is transferring per change.
+

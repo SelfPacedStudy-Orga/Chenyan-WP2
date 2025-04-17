@@ -1,0 +1,9 @@
+Hi, I'm Wu Xingsu from University of Shanghai for Science and Technology.
+I would like to introduce our work titled Source 3 Domentitation with Frozen Body Model, Foundation Model.
+First, I would like to introduce Unsupervised Domain Adaptation, UDA.
+UDA until brings the gap between the source and target domain, which may have different data distribution,
+both labeled source data and unlabeled target data available during the adaptation.
+But it's unrealistic for some real-world scenarios involving privacy,
+because the source domain data cannot be assessed.
+Thus, more recent method focusing on Source 3 Domain Adaptation.
+Therefore, the goal of the setting is transferring per change.
